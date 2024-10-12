@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ryanxsharp.github.io/al-folio/sitemap.xml
+Sitemap: https://ryanxsharp.github.io/sitemap.xml
