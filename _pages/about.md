@@ -18,6 +18,8 @@ social: true # includes social icons at the bottom of the page
 
 I'm a machine learning engineer at [IGS Energy](https://www.utdallas.edu/) designing a demand forecasting algorithm to predict the hourly energy consumption of individual homes and businesses for years into the future.
 
-I recently graduated from [UTD](https://www.utdallas.edu/) with an MS in Statistics in 2024. During my MS, I researched representation learning for computer vision under the supervision of Prof. [Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home).
+I recently graduated from [UTD](https://www.utdallas.edu/) with an MS in Statistics in 2024. During my MS, I researched representation learning for computer vision under the supervision of [Prof. Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home).
 
-Prior to that, I 
+Prior to that, I graduated from UTD with a BS in Data Science in 2023. During the final semester of my undergraduate education, I had the opportunity to conduct an independent study with [Prof. Vincent Ng](https://www.hlt.utdallas.edu/~vince/).
+
+Before I discovered my passion for AI, I inspired thousands of youth and adults to improve their fitness with weightlifting. My fitness YouTube channel now has more than 13 million total views and 80 thousand subscribers.
