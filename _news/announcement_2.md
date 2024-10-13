@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📈 I begin working as a data science intern for IGS Energy.
+💼 I begin working as a data science intern for IGS Energy.
