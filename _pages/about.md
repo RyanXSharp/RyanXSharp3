@@ -16,6 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a machine learning engineer at <a href='https://www.igs.com/'>IGS Energy</a> designing a demand forecasting algorithm to predict the hourly energy consumption of individual homes and businesses.
+I'm a machine learning engineer at [IGS Energy](https://www.utdallas.edu/) designing a demand forecasting algorithm to predict the hourly energy consumption of individual homes and businesses for years into the future.
 
-I recently graduated from [UTD](https://www.utdallas.edu/) with an MS in Statistics in 2024. During my MS, I researched representation learning under the supervision of Prof. <a href='https://sites.google.com/view/rishabhiyer/home'>Rishabh Iyer</a>.
+I recently graduated from [UTD](https://www.utdallas.edu/) with an MS in Statistics in 2024. During my MS, I researched representation learning for computer vision under the supervision of Prof. [Rishabh Iyer](https://sites.google.com/view/rishabhiyer/home).
+
+Prior to that, I 
