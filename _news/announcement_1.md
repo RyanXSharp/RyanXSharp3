@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📜 I receive the Academic Excellence Scholarship from UTD which covers all undergraduate tuition and provides a stipend.
+📜 I receive the Academic Excellence Scholarship from UTD which covers all undergraduate tuition and includes a stipend.
